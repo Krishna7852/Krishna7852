@@ -1,6 +1,6 @@
 ###  Hello, I'm Krishna Bhamare! 👋
-##### About Me
-I'm a *Frontend Developer*, I have hands-on experience in UI web development using Javascript Based Frameworks.
+#### About Me
+I'm a **Frontend Developer**, I have hands-on experience in UI web development using Javascript Based Frameworks.
 I have developed over time good debugging and error-detecting skills.
 I am also very eager to pick coding styles and standards worked on by fellow developers and re-invent them to suit my use. 
 I have expertise on different Javascript frameworks such as,
@@ -11,12 +11,12 @@ I have expertise on different Javascript frameworks such as,
  - Svelte.
  - StencilJS.
  ```
- I have excellent CSS3, HTML5, Javascript and Typescript skills as well.
+ I have excellent CSS3/SCSS, HTML5, Javascript and Typescript skills as well.
 
-##### Current employment
-I am a *Senior Software Engineer* at a product based company called [Greytip Software](https://www.greythr.com/).
+#### Current employment
+I am a **Senior Software Engineer** at a product based company called [Greytip Software](https://www.greythr.com/).
 There are lots of interesting problems to be solved and I'm loving it. 
-Previously I was a *Product Engineer* at [Bridgelabz](https://www.bridgelabz.com/).
+Previously I was a **Product Engineer** at [Bridgelabz](https://www.bridgelabz.com/).
 
-##### More info about me
+#### More info about me
 Check out my personal [website](https://www.krishnabhamare.com/).
