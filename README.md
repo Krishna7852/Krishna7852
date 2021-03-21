@@ -20,4 +20,4 @@ There are lots of interesting problems to be solved and I'm loving it.
 Previously I was a **Product Engineer** at [Bridgelabz](https://www.bridgelabz.com/).
 
 #### More info about me ✨
-Check out my personal [website](https://www.krishnabhamare.com/).➠
+Check out my personal [website](https://gridsome-website-krushnabhamare.vercel.app/).➠
