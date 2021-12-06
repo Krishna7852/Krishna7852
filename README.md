@@ -19,5 +19,5 @@ I am a **Senior Software Engineer** at a product based company called [Greytip S
 There are lots of interesting problems to be solved and I'm loving it. 
 Previously I was a **Product Engineer** at [Bridgelabz](https://www.bridgelabz.com/).
 
-#### More info about me ✨
-Check out my personal [website](https://gridsome-website-krushnabhamare.vercel.app/).➠
+<!-- #### More info about me ✨
+Check out my personal [website](https://gridsome-website-krushnabhamare.vercel.app/).➠ -->
