@@ -1,4 +1,4 @@
-###  Hello, I'm Krishna Bhamare!🇮🇳 👋
+###  Hello, I'm Krishna!🇮🇳 👋
 #### About Me 👨‍💻
 I'm a **Frontend Developer**, I have hands-on experience in UI web development using Javascript Based Frameworks.
 I have developed over time good debugging and error-detecting skills.
