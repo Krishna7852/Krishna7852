@@ -14,10 +14,10 @@ I have expertise on different Javascript frameworks such as,
  
  I have excellent **CSS3/SCSS, HTML5, Javascript and Typescript** skills as well.
 
-#### Current Employment 💥
+<!-- #### Current Employment 💥
 I am a **Senior Software Engineer** at a product based company called [Greytip Software](https://www.greythr.com/).
 There are lots of interesting problems to be solved and I'm loving it. 
 Previously I was a **Product Engineer** at [Bridgelabz](https://www.bridgelabz.com/).
 
-<!-- #### More info about me ✨
+#### More info about me ✨
 Check out my personal [website](https://gridsome-website-krushnabhamare.vercel.app/).➠ -->
