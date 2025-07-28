@@ -7,6 +7,7 @@ I have expertise on different Javascript frameworks such as,
 
  - **Angular 2+.**
  - **React JS, Redux-saga etc.**
+ - **Node JS, Express etc.**
  - **React Native.**
  - **Ionic.**
  - **Svelte.**
