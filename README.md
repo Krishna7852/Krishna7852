@@ -1,4 +1,4 @@
-###  Hello, I'm Krishna!🇮🇳 👋
+###  Hello, I'm Krushna!🇮🇳 👋
 #### About Me 👨‍💻
 I'm a **Senior Software Engineer**, I have hands-on experience in UI web development using Javascript Based Frameworks.
 I have developed over time good debugging and error-detecting skills.
