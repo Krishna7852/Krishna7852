@@ -1,6 +1,6 @@
 ###  Hello, I'm Krishna!🇮🇳 👋
 #### About Me 👨‍💻
-I'm a **Frontend Developer**, I have hands-on experience in UI web development using Javascript Based Frameworks.
+I'm a **Senior Software Engineer**, I have hands-on experience in UI web development using Javascript Based Frameworks.
 I have developed over time good debugging and error-detecting skills.
 I am also very eager to pick coding styles and standards worked on by fellow developers and re-invent them to suit my use. 
 I have expertise on different Javascript frameworks such as,
